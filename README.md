@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center"><b>Hi , I'm Juan Cristobal Campos Ferrada</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
@@ -104,7 +103,7 @@ Here are some ideas to get you started:
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/juancristobalcamposferrada" target="_blank">
+<a href="https://linkedin.com/in/juancristobalcamposferrada" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  juancristobalcamposferrada-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
