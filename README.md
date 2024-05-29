@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 <li>
 <a href="www.linkedin.com/in/juancristobalcamposferrada" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  JuanCristobal-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  juancristobalcamposferrada-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -139,12 +139,5 @@ Here are some ideas to get you started:
 ## <b>El hombre adecuado en el sitio equivocado puede cambiar el rumbo del mundo...✨GMAN - Half Life II </b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
-
----
-
 <br>
 
