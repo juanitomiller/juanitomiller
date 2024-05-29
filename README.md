@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Juan Cristobal Campos Ferrada</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=19C303&random=false&width=435&lines=Full+Stack+JS+Developer+student%2C;IT+is+my+passion;Is+it+time+for+coffee%3F;+Create%2C+Design%2C+Execute!" alt="Typing SVG" /></a>
 </p>
 
 
