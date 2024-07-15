@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 - A passionate Self-taught Full Stack in JavaScript developer 
-- Playing CTF's at spare time
+- Playing Airsoft at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://juanitomiller.github.io)
 - I’m currently open for an Intern or a new job opportunity, this is [my Repository](https://juanitomiller.github.io/Portfolio/)
